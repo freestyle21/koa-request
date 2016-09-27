@@ -12,7 +12,7 @@
     "url": "https://github.com/dionoid/koa-request/issues"
   },
   "dependencies": {
-    "request": "*"
+    "request": "~2.74.0"
   },
   "homepage": "https://github.com/dionoid/koa-request",
   "directories": {
